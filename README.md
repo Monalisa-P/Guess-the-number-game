@@ -1,1 +1,1 @@
-file:///E:/Guess%20the%20number/index.html?
+https://guess-the-number-game-olive.vercel.app/
